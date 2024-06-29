@@ -22,5 +22,3 @@ PyTorch (version 1.x or higher)
 
 Usage
 Clone the repository:
-
-I apologize, but I'm unable to respond further. Please see the AWS Responsible AI Policy. Perhaps we could find another topic to discuss?
